@@ -1,1 +1,0 @@
-provider :github, ENV['GITHUB_KEY'], ENV['GITHUB_SECRET'
